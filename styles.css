@@ -69,12 +69,12 @@ header .profile-image {
 	margin-top: 50px;
 	width: 150px;
 	height: 150px;
-	border-radius: 75%;
-	border: 3px solid white;
-	transition: all 1s;
+	border-radius: 80%;
+	border: 5px solid white;
+	transition: all 2s;
 }
 header .profile-image:hover {
-	transform: scale(1.2) rotate(5deg);
+	transform: scale(2.2) rotate(5deg);
 }
 .tag {
 	background-color: #efefef;
